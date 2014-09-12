@@ -44,8 +44,6 @@ OptionParser.new do |opts|
   end
 end.parse!
 
-p options
-
 if options.key?(:plugin_list) || options[:all]
   most_popular('plugin', options[:plugin_list] || 1500, options[:verbose])
 end
