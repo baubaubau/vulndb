@@ -13,24 +13,24 @@ OptionParser.new do |opts|
     options[:verbose] = true
   end
 
-  opts.on('--plugin-list [NUMBER_OF_ITEMS]', '--pl', Integer,
+  opts.on('--plugins [NUMBER_OF_ITEMS]', '-p', Integer,
           'Generate a new plugins.txt file (supply number of *items* to parse, default : 1500)'
   ) do |value|
-    options[:plugin_list] = value
+    options[:plugins] = value
   end
 
-  opts.on('--full-plugin-list', '--fpl', 'Generate a new full plugins.txt file') do |_|
-    options[:full_plugin_list] = true
+  opts.on('--full-plugins', '-P', 'Generate a new full plugins.txt file') do |_|
+    options[:full_plugins] = true
   end
 
-  opts.on('--theme-list [NUMBER_OF_ITEMS]', '--tl', Integer,
+  opts.on('--themes [NUMBER_OF_ITEMS]', '-t', Integer,
           'Generate a new themes.txt file (supply number of *items* to parse, default : 200)'
   ) do |value|
-    options[:theme_list] = value
+    options[:themes] = value
   end
 
-  opts.on('--full-theme-list', '--ftl', 'Generate a new full themes.txt file') do |_|
-    options[:full_theme_list] = true
+  opts.on('--full-themes', '-T', 'Generate a new full themes.txt file') do |_|
+    options[:full_themes] = true
   end
 
   opts.on('--all', '-a',
@@ -44,17 +44,17 @@ OptionParser.new do |opts|
   end
 end.parse!
 
-if options.key?(:plugin_list) || options[:all]
-  most_popular('plugin', options[:plugin_list] || 1500, options[:verbose])
+if options.key?(:plugins) || options[:all]
+  most_popular('plugin', options[:plugins] || 1500, options[:verbose])
 end
 
-full('plugin', options[:verbose]) if options[:full_plugin_list] || options[:all]
+full('plugin', options[:verbose]) if options[:full_plugins] || options[:all]
 
-if options.key?(:generate_theme_list) || options[:all]
-  most_popular('theme', options[:theme_list] || 200, options[:verbose])
+if options.key?(:themes) || options[:all]
+  most_popular('theme', options[:themes] || 200, options[:verbose])
 end
 
-full('theme', options[:verbose]) if options[:full_theme_list] || options[:all]
+full('theme', options[:verbose]) if options[:full_themes] || options[:all]
 
 if options[:checksums]
   puts '[+] Creating Checksums ...'
