@@ -11,6 +11,9 @@
              xsi:noNamespaceSchemaLocation="wp_versions.xsd">
 
   <file src="readme.html">
+    <hash md5="321aad4ba63043f888cb072cedf9ef78">
+      <version>4.1</version>
+    </hash>
     <hash md5="70cdb035f3dd51138d5997eaa4d93798">
       <version>4.0.1</version>
     </hash>
@@ -95,6 +98,9 @@
   </file>
 
   <file src="wp-includes/js/tinymce/wp-tinymce.js.gz">
+    <hash md5="66ff6b408c58c3207ff4b20e75ec5e68">
+      <version>4.1</version>
+    </hash>
     <hash md5="3966bc13b65d9487dc6772c615b05cd9">
       <version>4.0.1</version>
     </hash>
