@@ -59,7 +59,7 @@ full('theme', options[:verbose]) if options[:full_themes] || options[:all]
 if options[:checksums]
   puts '[+] Creating Checksums ...'
 
-  Dir[File.join(DB_DIR, '*.{xml,xsd,txt}')].each do |file|
+  Dir[File.join(DB_DIR, '{*.{xml,xsd,txt},LICENSE}')].each do |file|
     puts "  [+] Generating checksum for #{file}" if options[:verbose]
     write_checksum(file)
   end
