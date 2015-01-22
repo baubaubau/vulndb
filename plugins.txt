@@ -1388,7 +1388,6 @@ wp-postviews
 wp-print
 wp-pro-quiz
 wp-product-review
-wp-property
 wp-recaptcha
 wp-responsive-menu
 wp-retina-2x
