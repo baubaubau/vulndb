@@ -731,6 +731,7 @@ basically-pink
 basicco
 basics
 basicstyle
+basilico
 basis
 basiss
 baskerville
@@ -1308,6 +1309,7 @@ book-inspiration
 book-lite
 book-rev-lite
 bookburner
+bookkeeping
 boost_me
 booster
 boot-store
@@ -1459,6 +1461,7 @@ bunker
 bunny
 burbot
 burg
+burger
 burly
 burned-and-wrecked-phototheme
 burning-bush
@@ -1838,6 +1841,7 @@ cleanetica
 cleanfabric
 cleanfrog
 cleangrid
+cleaning-service
 cleanphoto
 cleanport-lite
 cleanpress
@@ -1915,6 +1919,7 @@ cmsts-inditech-wp
 cmyk-design
 cnhk-lite
 cnt_miku
+cnt_umi
 cnwordpress
 co-operatives
 coaster
@@ -1943,6 +1948,7 @@ coffee-break-theme
 coffee-cup
 coffee-desk
 coffee-lite
+coffee-shop
 coffee-theme
 coffee-time
 coffee-wordpress-theme
@@ -2355,6 +2361,7 @@ darwin-buddypack
 darwin-buddypress-buddypack
 dashed
 daslog-screen
+dating
 david-airey
 daydreams
 daydreams_abeille
@@ -2573,6 +2580,7 @@ doctormedic
 docu
 documentation
 dodo
+dog-care
 dogs-best-friend
 dogs-life
 doji
@@ -2739,6 +2747,7 @@ ela
 elapix
 elbee-elgee
 electa
+electrician
 electron
 electronic_cigarettes
 elegance
@@ -2831,6 +2840,7 @@ epublishing
 equea
 equilibrium
 eric888
+eryn
 esell
 esempe
 eslate
@@ -2996,9 +3006,11 @@ fausause
 fazio
 fazyvo
 fazz
+fb-newsroom
 fbozz
 fc
 fcooking
+fcorpo
 fcreat
 fd
 fearful-jesuit
@@ -3252,6 +3264,7 @@ freetrafficsystemcom-serious-stuff-theme
 freetypo
 freewebtemplatescom-green-theme
 freeworld
+freezer
 freizeitler-especiegrafica
 freizeitler-nonpurista
 frengky-widarta-s-i-p-uri-httpwordpress-orgthemestwentyfourteen
@@ -3754,6 +3767,7 @@ hatch
 hatch-boltwater
 hatchpri
 hathor
+hatice
 hatomicgrid
 haunted
 haunted-house
@@ -4592,6 +4606,7 @@ lenora
 lensa
 leo-rainbow-breeze
 les-vacances
+leslie
 less
 less-is-less
 less-is-more
@@ -6142,6 +6157,7 @@ personal-minimal
 personal-theme
 personal-twelve
 personalia
+personaller
 personaltrainer
 perspective
 pertamax
@@ -6277,6 +6293,7 @@ pits
 pitter
 pixel
 pixel-2011
+pixel-linear
 pixelbangla
 pixeled
 pixell
@@ -6350,6 +6367,7 @@ pool-drinks
 pop-fresh
 poppy
 pops
+portage-bay
 portal
 portal-colorido
 portal4you
@@ -6421,6 +6439,7 @@ primepress
 primer
 primo
 primo-lite
+princess
 principium
 prinz-branfordmagazine
 prinz-branfordmagazine-26
@@ -6601,6 +6620,7 @@ rambo
 rams
 random
 random-background
+randomlypicked
 randy-candy
 ranunculus
 rapid
@@ -6885,6 +6905,7 @@ romzah
 ronin
 rook-quality-systems
 rookie
+rookie-startar
 rooloo
 room-34-baseline
 root
@@ -7304,6 +7325,7 @@ simple-red-theme
 simple-responsive
 simple-round
 simple-search
+simple-shop
 simple-sophisticated
 simple-style
 simple-tabloid
@@ -7811,6 +7833,7 @@ stock
 stockholm
 stonehenge
 stoplight
+store-wp
 storefront
 storefront-paper
 stork
@@ -8209,6 +8232,7 @@ the-hipster-blog
 the-html5-boilerplate
 the-j-a-mortram
 the-knife-wp
+the-lake-beneath-the-opera
 the-lamborghini-theme
 the-lamborghini-wordpress-theme
 the-lamppost
@@ -8670,6 +8694,7 @@ ugg
 ugly
 ulisse-theme
 ultimate
+ultra
 ultralight
 um
 umair_butt
@@ -9121,6 +9146,7 @@ wooden-stuudio
 wooden-theme-by-accuwebhostingcom
 wooden-workshop
 woodinit
+woodizain
 woodland
 woodlike
 woodpecker
@@ -9542,6 +9568,7 @@ zetaone
 zfirst
 zgrey
 zhuti
+zifer-child
 ziggydemar
 zilch
 zillrblue
