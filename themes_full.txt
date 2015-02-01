@@ -163,6 +163,7 @@ accessible-zen
 accesspress-lite
 accesspress-parallax
 accesspress-ray
+accesspress-root
 accesspress-staple
 accomplished
 accord
@@ -1687,6 +1688,7 @@ charity
 charlene
 charlie-jackson-blog
 charlottenburg
+charm_city
 chatfire
 chatspan
 chatverse
@@ -2138,6 +2140,7 @@ coupler-simple-theme-lite
 coupon
 courage
 courier
+cover
 cover-wp
 covera-lite
 coverht-wp
@@ -2949,6 +2952,7 @@ fabricpress
 facade
 facebook-blog
 facebook-like-look
+facebook-newsroom
 facebook-theme
 facebookwb
 facelook
@@ -3317,6 +3321,7 @@ fuego-azul
 fuji
 fuji-theme
 fukasawa
+full-frame
 full-gallery
 fullfolio
 fullimage
@@ -3809,6 +3814,7 @@ hephaestus
 herbaceous
 herbal
 herbality
+hercules-wordpress-theme-main
 here-comes-the-bride
 here-ya-go
 hero
@@ -3848,6 +3854,7 @@ holi
 holiday
 holiday-nights
 holistic-teahouse
+hollandex
 home-furniture
 home-loan
 home-pets
@@ -3927,6 +3934,7 @@ i-am-one
 i-can-watch-movies
 i-create
 i-dont
+i-excel
 i-heart-pc
 i-heart-pc-light
 i-know-my-theme
@@ -4539,6 +4547,7 @@ language-jobs-2
 laptop
 laptopbg
 largo
+larryslist
 lastsection11
 lasvegas-blog
 latches
@@ -4546,6 +4555,7 @@ latticemood
 latticemood-格子心情
 launching
 launchpad
+launchpro
 lauracatton-multi-pic-white-theme
 laurels
 lavender-dream
@@ -4802,6 +4812,7 @@ lycanthropy
 lycie
 lyndi1
 lynx
+lyon
 lyrics-theme
 lysa
 m
@@ -4855,6 +4866,7 @@ magrid
 magup
 magzine
 magzinepro
+mahal
 mahatu
 mahinahon
 mahjonk-bluesea
@@ -4950,6 +4962,7 @@ match
 material
 material-design
 material-gaze
+materialist
 matheson
 matisse
 matrixblack
@@ -5079,6 +5092,7 @@ mh-corporate-basic
 mh-corporate-lite
 mh-elegance-lite
 mh-magazine-lite
+mh-newsdesk-lite
 mh-purity-lite
 mhr
 miami-beach-blog-theme
@@ -5462,6 +5476,7 @@ mylo
 mymag
 mymag-child
 mymusicblog
+mynetwork
 mypapers
 mypoker
 myportfolio
@@ -5758,6 +5773,7 @@ ns-blog
 nu-white
 nu2013
 nu2015
+nucleare
 nuevo
 nuit-dautomne
 nuit-de-printemps
@@ -5902,6 +5918,7 @@ openstrap
 openstrapper
 openswatch
 opor-ayam
+oporto
 oprekan
 oprexan
 oprum
@@ -6007,6 +6024,7 @@ oxygen
 ozgurlog01
 ozz
 ozzy
+p-blog
 p-project
 p2
 p2-black
@@ -6898,6 +6916,7 @@ rockett
 rockout
 rococo
 roda
+rokophoto-lite
 rolas-sepuluh
 rollo
 romangie
@@ -8442,6 +8461,7 @@ total-bounty-wordpress-business-theme
 total-bounty-wp-business
 totallyred
 touchwood
+tourist
 tp-autumn
 tp-blue
 tp-iphone
@@ -8559,6 +8579,7 @@ tusoshop
 tutorial
 tutsup-two
 tv-boy-explode-black
+tw-simpler
 tw-vict1
 tw_3columns_v1
 tweaker
@@ -9069,6 +9090,7 @@ whiter
 whiteshading-website-layout
 whitesky
 whitesnow
+whitespace
 whitestatic
 whitethemes
 whitey08-green
