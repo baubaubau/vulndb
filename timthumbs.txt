@@ -161,6 +161,7 @@ $wp-content$/themes/Avenue/timthumb.phptimthumb.php
 $wp-content$/themes/averin/timthumb.php
 $wp-content$/themes/awake/lib/scripts/thumb.php
 $wp-content$/themes/awake/lib/scripts/timthumb.php
+$wp-content$/themes/awake/lib/scripts/timthumb/thumb.php
 $wp-content$/themes/backstage/backstage/thumb.php
 $wp-content$/themes/backstage/custom/thumb.php
 $wp-content$/themes/backstage/custom/timthumb.php
@@ -492,6 +493,7 @@ $wp-content$/themes/comfy-3/thumbopen.php
 $wp-content$/themes/comfy/thumbopen.php
 $wp-content$/themes/comfy/thumbs/thumb.php
 $wp-content$/themes/conceditor-wp-strict/scripts/timthumb.php
+$wp-content$/themes/construct/lib/scripts/timthumb/thumb.php
 $wp-content$/themes/constructor/layouts/thumb.php
 $wp-content$/themes/constructor/libs/timthumb.php
 $wp-content$/themes/constructor/timthumb.php
@@ -663,6 +665,7 @@ $wp-content$/themes/DeepFocus/timthumb.php
 $wp-content$/themes/DeepFocus/timthumb.phpthumb.php
 $wp-content$/themes/DeepFocus/timthumb.phptimthumb.php
 $wp-content$/themes/DeepFocus/tools/timthumb.php
+$wp-content$/themes/dejavu/lib/scripts/timthumb/thumb.php
 $wp-content$/themes/delegate/scripts/thumb.php
 $wp-content$/themes/delegate/scripts/timthumb.php
 $wp-content$/themes/delegate/thumb.php
@@ -843,6 +846,7 @@ $wp-content$/themes/easini/timthumb.php
 $wp-content$/themes/eBusiness/thumb.php
 $wp-content$/themes/eBusiness/timthumb.php
 $wp-content$/themes/echea/timthumb.php
+$wp-content$/themes/echelon/lib/scripts/timthumb/thumb.php
 $wp-content$/themes/echoes/timthumb.php
 $wp-content$/themes/ecobiz/custom/thumb.php
 $wp-content$/themes/ecobiz/custom/timthumb.php
@@ -1656,6 +1660,7 @@ $wp-content$/themes/PersonalPress/timthumb.php
 $wp-content$/themes/PersonalPress/timthumb.phpthumb.php
 $wp-content$/themes/PersonalPress/timthumb.phptimthumb.php
 $wp-content$/themes/PersonalPress/tools/timthumb.php
+$wp-content$/themes/persuasion/lib/scripts/timthumb/thumb.php
 $wp-content$/themes/photobox/themify/img.php
 $wp-content$/themes/photofeature/scripts/thumb.php
 $wp-content$/themes/photofeature/scripts/timthumb.php
