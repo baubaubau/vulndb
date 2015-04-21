@@ -11,17 +11,26 @@
              xsi:noNamespaceSchemaLocation="wp_versions.xsd">
 
   <file src="readme.html">
+    <hash md5="58c2fe4eb8b7866abb8912dc7fc2f616">
+      <version>4.1.2</version>
+    </hash>
     <hash md5="ce78b2213f70701834658c9007f0c947">
       <version>4.1.1</version>
     </hash>
     <hash md5="321aad4ba63043f888cb072cedf9ef78">
       <version>4.1</version>
     </hash>
+    <hash md5="ed8777afffc86285afc57984da43fdbd">
+      <version>4.0.2</version>
+    </hash>
     <hash md5="70cdb035f3dd51138d5997eaa4d93798">
       <version>4.0.1</version>
     </hash>
     <hash md5="f00855fca05f89294d0fcee6bebea64a">
       <version>4.0</version>
+    </hash>
+    <hash md5="38466bbd5205e09d8bbb4e46bfd4aec5">
+      <version>3.9.4</version>
     </hash>
     <hash md5="62a78170a740a4460a8d25e00c1839f5">
       <version>3.9.3</version>
@@ -34,6 +43,9 @@
     </hash>
     <hash md5="84b54c54aa48ae72e633685c17e67457">
       <version>3.9</version>
+    </hash>
+    <hash md5="ad646c841cf11f2dc8a8f76f65e4ca42">
+      <version>3.8.6</version>
     </hash>
     <hash md5="4821f33f92f597623a524a34f3be4651">
       <version>3.8.5</version>
@@ -52,6 +64,9 @@
     </hash>
     <hash md5="38ee273095b8f25b9ffd5ce5018fc4f0">
       <version>3.8</version>
+    </hash>
+    <hash md5="b9ebf4eb4a24be0bd82094da0baf13cf">
+      <version>3.7.6</version>
     </hash>
     <hash md5="61f1e5fbbd9ecb69c90cb96a19160ae5">
       <version>3.7.5</version>
@@ -91,6 +106,24 @@
     </hash>
     <hash md5="9ea06ab0184049bf4ea2410bf51ce402">
       <version>3.0</version>
+    </hash>
+  </file>
+
+  <file src="wp-includes/css/media-views-rtl.min.css">
+    <hash md5="14321055939c72056c29da4fac03ebf4">
+      <version>4.0.2</version>
+    </hash>
+  </file>
+
+  <file src="wp-admin/js/nav-menu.min.js">
+    <hash md5="1bf86ac908560d0942c89fa5bb260ac1">
+      <version>3.9.4</version>
+    </hash>
+    <hash md5="2dbeb77845c920d2a43089badf02558d">
+      <version>3.8.6</version>
+    </hash>
+    <hash md5="f8c1f1f9fdc67b64689ad8cb43bcd7de">
+      <version>3.7.6</version>
     </hash>
   </file>
 
