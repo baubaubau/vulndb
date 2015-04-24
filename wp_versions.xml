@@ -14,6 +14,9 @@
     <hash md5="ded215e7acec9f6d04f3e370f486d3aa">
       <version>4.2</version>
     </hash>
+    <hash md5="60ce7d3fed721c23cc46c7aaa77c1df8">
+      <version>4.1.3</version>
+    </hash>
     <hash md5="58c2fe4eb8b7866abb8912dc7fc2f616">
       <version>4.1.2</version>
     </hash>
@@ -23,6 +26,9 @@
     <hash md5="321aad4ba63043f888cb072cedf9ef78">
       <version>4.1</version>
     </hash>
+    <hash md5="411d19aaa3bb5d45f8aa8714575ee48b">
+      <version>4.0.3</version>
+    </hash>
     <hash md5="ed8777afffc86285afc57984da43fdbd">
       <version>4.0.2</version>
     </hash>
@@ -31,6 +37,9 @@
     </hash>
     <hash md5="f00855fca05f89294d0fcee6bebea64a">
       <version>4.0</version>
+    </hash>
+    <hash md5="57b9f0931f2da4389af92e07bc702505">
+      <version>3.9.5</version>
     </hash>
     <hash md5="38466bbd5205e09d8bbb4e46bfd4aec5">
       <version>3.9.4</version>
@@ -46,6 +55,9 @@
     </hash>
     <hash md5="84b54c54aa48ae72e633685c17e67457">
       <version>3.9</version>
+    </hash>
+    <hash md5="0f74cf5708da39cb3c86dc49c8f276c8">
+      <version>3.8.7</version>
     </hash>
     <hash md5="ad646c841cf11f2dc8a8f76f65e4ca42">
       <version>3.8.6</version>
@@ -67,6 +79,9 @@
     </hash>
     <hash md5="38ee273095b8f25b9ffd5ce5018fc4f0">
       <version>3.8</version>
+    </hash>
+    <hash md5="c40340aad98640725093e05797056bd2">
+      <version>3.7.7</version>
     </hash>
     <hash md5="b9ebf4eb4a24be0bd82094da0baf13cf">
       <version>3.7.6</version>
