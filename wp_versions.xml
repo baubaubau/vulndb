@@ -11,8 +11,14 @@
              xsi:noNamespaceSchemaLocation="wp_versions.xsd">
 
   <file src="readme.html">
+    <hash md5="f18dcf7c554efc0b197d2a320e5cd248">
+      <version>4.2.1</version>
+    </hash>
     <hash md5="ded215e7acec9f6d04f3e370f486d3aa">
       <version>4.2</version>
+    </hash>
+    <hash md5="21584d9435d82fd371904611a7e25289">
+      <version>4.1.4</version>
     </hash>
     <hash md5="60ce7d3fed721c23cc46c7aaa77c1df8">
       <version>4.1.3</version>
@@ -25,6 +31,9 @@
     </hash>
     <hash md5="321aad4ba63043f888cb072cedf9ef78">
       <version>4.1</version>
+    </hash>
+    <hash md5="85a6b662f1733509acb224c273897b24">
+      <version>4.0.4</version>
     </hash>
     <hash md5="411d19aaa3bb5d45f8aa8714575ee48b">
       <version>4.0.3</version>
@@ -127,24 +136,6 @@
     </hash>
   </file>
 
-  <file src="wp-includes/css/media-views-rtl.min.css">
-    <hash md5="14321055939c72056c29da4fac03ebf4">
-      <version>4.0.2</version>
-    </hash>
-  </file>
-
-  <file src="wp-admin/js/nav-menu.min.js">
-    <hash md5="1bf86ac908560d0942c89fa5bb260ac1">
-      <version>3.9.4</version>
-    </hash>
-    <hash md5="2dbeb77845c920d2a43089badf02558d">
-      <version>3.8.6</version>
-    </hash>
-    <hash md5="f8c1f1f9fdc67b64689ad8cb43bcd7de">
-      <version>3.7.6</version>
-    </hash>
-  </file>
-
   <file src="wp-includes/css/buttons-rtl.css">
     <hash md5="71c13ab1693b45fb3d7712e540c4dfe0">
       <version>3.8</version>
@@ -152,23 +143,11 @@
   </file>
 
   <file src="wp-includes/js/tinymce/wp-tinymce.js.gz">
-    <hash md5="ce57362b7811e80becfe125cfafc1716">
-      <version>4.2</version>
-    </hash>
-    <hash md5="64fd6a9dd5366830074362d07d205018">
-      <version>4.1.1</version>
-    </hash>
     <hash md5="66ff6b408c58c3207ff4b20e75ec5e68">
       <version>4.1</version>
     </hash>
-    <hash md5="3966bc13b65d9487dc6772c615b05cd9">
-      <version>4.0.1</version>
-    </hash>
     <hash md5="21f15ceb6c245e6dc0edc510761049ba">
       <version>4.0</version>
-    </hash>
-    <hash md5="f094cea5fe2b1c870c662ff4794c589f">
-      <version>3.9.3</version>
     </hash>
     <hash md5="1d52314b1767c557b7232ae192c80318">
       <version>3.9</version>
